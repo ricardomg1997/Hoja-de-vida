@@ -1,0 +1,11 @@
+
+.imagen {
+    border-radius: 300px;
+    border: silver 4px solid;
+    display: block;
+    height:90px;
+    margin: auto;
+    width: 90px;
+    
+
+}
